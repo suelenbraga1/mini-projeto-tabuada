@@ -7,12 +7,13 @@
 
 ## 🏁 Visão Geral:
 
-A proposta é fazer uma aplicação com uma lâmpada e dois botões, um que “liga” e outro que “desliga” a lâmpada. E ao clicar na lâmpada, ela se quebre.
-Essa aplicação funciona com a manipulação do DOM e imagens através do Javascript. 
+Uma aplicação que executa função de tabuada usando funções do Javascript.
 
 ## 📁 Páginas:
 
-A página principal é a única do projeto e apresenta dois campos para preenchimento: um campo para inserir um número desejado para saber a tabuada e outro campo para inserir até qual número da tabuada deve retornar.
+A página principal é a única do projeto e apresenta dois campos para preenchimento e um botão para "calcular".
+Um campo para inserir um número desejado para saber a tabuada e outro campo para inserir até qual número da tabuada deve retornar.
+Um alerta de erro aparece quando o usuário não preencher algum número.
 
 ## 🚀 Tecnologias:
 

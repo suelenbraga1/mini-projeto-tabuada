@@ -19,16 +19,13 @@ Um alerta de erro aparece quando o usuário não preencher algum número.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" height="40"/>
 
-## 👯 Clone este projeto:
- 
-git clone 
-<a href="https://github.com/suelenbraga1/mini-projeto-tabuada.git">
-Acessar
-cd mini-projeto-tabuada
-Instalar Live Server
-<a href="https://www.npmjs.com/package/live-server">
-
 ## 👾 Link da página no github pages:
 https://https://suelenbraga1.github.io/mini-projeto-tabuada/
 
+## 👯 Clone este projeto:
+ 
+```bash
+$ git clone https://github.com/suelenbraga1/mini-projeto-tabuada.git
+# Acessar
+$ cd mini-projeto-tabuada
 
